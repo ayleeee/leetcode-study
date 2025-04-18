@@ -6,6 +6,9 @@ O(K) => K는 n의 비트 길이. 숫자의 비트 수만큼 반복.
 시간 복잡도는 비트 길이에 비례함
 
 O(1) => 추가 메모리 사용 없이 상수 공간만 사용
+
+Runtime 0ms
+Memory 17.71mb
 '''
 
 def hammingWeight(self, n: int) -> int:
